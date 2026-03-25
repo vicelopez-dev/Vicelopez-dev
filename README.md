@@ -29,7 +29,7 @@ Me enfoco en desarrollar proyectos tecnológicos y soluciones innovadoras e insp
 - Correo: robotica.aplicada.vice@gmail.com
 - Instagram: @robotica.aplicada
 
-✨ Objetivo
+✨ Objetivo:
 Inspirar a mas jovenes a interesarse en la ciencia, con perseverancia, reiliencia y curiosidad.
 
 
@@ -64,7 +64,7 @@ I focus on developing technological projects and innovative solutions, while ins
 - Email: robotica.aplicada.vice@gmail.com
 - Instagram: @robotica.aplicada
 
-✨ Goal
+✨ Goal:
 To inspire more young people to become interested in science through perseverance, resilience, and curiosity.
 
 
