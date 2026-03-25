@@ -33,7 +33,7 @@ Me enfoco en desarrollar proyectos tecnológicos y soluciones innovadoras e insp
 Inspirar a mas jovenes a interesarse en la ciencia, con perseverancia, reiliencia y curiosidad.
 
 
-## 🇬🇧 English
+## US English
 👋 Hi, I'm Vicente López
 - High school student
 - Passionate about robotics
