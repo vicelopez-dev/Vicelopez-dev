@@ -1,10 +1,11 @@
-## Hola 👋, soy Vicente López
+## ES Español 
+Hola 👋, soy Vicente López
 - Estudiante de enseñanza media (HIGHSCHOOL) 
 - Me apasiona la Robótica.
 - Ganador del concurso regional ESO-Gobierno de Chile.
 
 🚀 Sobre mi….
- Me enfoco en desarrollar proyectos tecnológicos y soluciones innovadoras e inspirar a estudiantes a seguir el camino de la ciencia y la ingeniería.
+Me enfoco en desarrollar proyectos tecnológicos y soluciones innovadoras e inspirar a estudiantes a seguir el camino de la ciencia y la ingeniería.
 
 🔨 Últimamente trabajo en:
 - Proyectos con ESP32.
@@ -28,7 +29,43 @@
 - Correo: robotica.aplicada.vice@gmail.com
 - Instagram: @robotica.aplicada
 
-✨ Objetivo: Inspirar a mas jovenes a interesarse en la ciencia, con perseverancia, reiliencia y curiosidad.
+✨ Objetivo
+Inspirar a mas jovenes a interesarse en la ciencia, con perseverancia, reiliencia y curiosidad.
+
+
+## 🇬🇧 English
+👋 Hi, I'm Vicente López
+- High school student
+- Passionate about robotics
+- Winner of the ESO–Government of Chile regional competition
+
+🚀 About me
+I focus on developing technological projects and innovative solutions, while inspiring students to pursue paths in science and engineering.
+
+🔨 What I'm currently working on
+- ESP32-based projects
+- Building my own robots
+- Sharing robotics content and showcasing my projects on social media
+- Creating an astronomy and robotics academy at my school
+
+⚙️ Technologies I use
+- ESP32 (WiFi, Bluetooth, and LoRa) and Arduino
+- MPU6050 and various sensors
+- 3D design and 3D printing
+- Custom manufacturing
+
+⭐ Featured Projects
+- Motion control system (ESP32 + MPU6050)
+- LoRa wireless communication systems
+- Quadruped robot capable of detecting soil moisture variations
+- “Dark Sky” project: creation of an astronomy and robotics academy at my school
+
+📫 Contact
+- Email: robotica.aplicada.vice@gmail.com
+- Instagram: @robotica.aplicada
+
+✨ Goal
+To inspire more young people to become interested in science through perseverance, resilience, and curiosity.
 
 
 
