@@ -1,32 +1,32 @@
 ## Hola, soy Vicente López
--Estudiante de enseñanza media (HIGHSCHOOL) 
--Me apasiona la Robótica.
--Ganador del concurso regional ESO-Gobierno de Chile.
+- Estudiante de enseñanza media (HIGHSCHOOL) 
+- Me apasiona la Robótica.
+- Ganador del concurso regional ESO-Gobierno de Chile.
 
 Sobre mi….
-Me enfoco en desarrollar proyectos tecnológicos y soluciones innovadoras e inspirar a estudiantes a seguir el camino de la ciencia y la ingeniería.
+ Me enfoco en desarrollar proyectos tecnológicos y soluciones innovadoras e inspirar a estudiantes a seguir el camino de la ciencia y la ingeniería.
 
 Últimamente trabajo en:
--Proyectos con ESP32.
--Creación de robots propios.
--Divulgando en redes sociales sobre robótica y presentando mis proyectos.
--Creando una academia de astronomía y robótica en mi colegio.
+- Proyectos con ESP32.
+- Creación de robots propios.
+- Divulgando en redes sociales sobre robótica y presentando mis proyectos.
+- Creando una academia de astronomía y robótica en mi colegio.
 
 Algunas de las tecnologías que uso.
--ESP32 (WIFI, Bluetooth y LoRa) y Arduino.
--MPU6050 y sensores variados.
--Impresión y diseño 3D.
--Manufactura propia.
+- ESP32 (WIFI, Bluetooth y LoRa) y Arduino.
+- MPU6050 y sensores variados.
+- Impresión y diseño 3D.
+- Manufactura propia.
 
 Proyectos Destacados:
--Sistema de control por movimiento (ESP32 + mpu6050).
--Comunicaciones inalámbricas por LoRa.
--Cuadrupedo robótico capaz de detectar variaciones de humedad en el suelo. 
--Proyecto “Dark Sky”, creación de Academia de astronomía y robótica en mi colegio.
+- Sistema de control por movimiento (ESP32 + mpu6050).
+- Comunicaciones inalámbricas por LoRa.
+- Cuadrupedo robótico capaz de detectar variaciones de humedad en el suelo. 
+- Proyecto “Dark Sky”, creación de Academia de astronomía y robótica en mi colegio.
 
 Contacto.
--Correo: robotica.aplicada.vice@gmail.com
--Instagram: @robotica.aplicada
+- Correo: robotica.aplicada.vice@gmail.com
+- Instagram: @robotica.aplicada
 
 
 
