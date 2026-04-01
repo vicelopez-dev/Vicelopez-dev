@@ -67,6 +67,12 @@ I focus on developing technological projects and innovative solutions, while ins
 ✨ Goal:
 To inspire more young people to become interested in science through perseverance, resilience, and curiosity.
 
+## My projects / Mis proyectos
+- [Control-x](https://github.com/vicelopez-dev/Control-X)
+- [HMC](https://github.com/vicelopez-dev/Hand-Motion-Controller---HMC)
+- [Quadruped](https://github.com/vicelopez-dev/Quadruped-Cuadrupedo-Robot)
+- [Dark Sky](https://github.com/vicelopez-dev/Dark-Sky-Educational-Proyect-Proyecto-Educacional-Dark-Sky)
+
 
 
 <!--
