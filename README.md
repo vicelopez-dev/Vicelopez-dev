@@ -30,7 +30,7 @@ Me enfoco en desarrollar proyectos tecnológicos y soluciones innovadoras e insp
 - Instagram: @robotica.aplicada
 
 ✨ Objetivo:
-Inspirar a mas jovenes a interesarse en la ciencia, con perseverancia, reiliencia y curiosidad.
+Inspirar a mas jovenes a interesarse en la ciencia, con perseverancia, resiliencia y curiosidad.
 
 
 ## US English
